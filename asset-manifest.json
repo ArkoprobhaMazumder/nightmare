@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nightmare/static/css/main.f855e6bc.css",
+    "main.js": "/nightmare/static/js/main.f3dad3fe.js",
+    "static/js/787.806f4e6c.chunk.js": "/nightmare/static/js/787.806f4e6c.chunk.js",
+    "static/media/logo.svg": "/nightmare/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nightmare/index.html",
+    "main.f855e6bc.css.map": "/nightmare/static/css/main.f855e6bc.css.map",
+    "main.f3dad3fe.js.map": "/nightmare/static/js/main.f3dad3fe.js.map",
+    "787.806f4e6c.chunk.js.map": "/nightmare/static/js/787.806f4e6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f3dad3fe.js"
+  ]
+}
